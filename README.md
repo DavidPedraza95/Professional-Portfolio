@@ -14,4 +14,4 @@ https://davidpedraza95.github.io/Professional-Portfolio/
 
 Screenshot of the website shown below:
 
-![Screenshot of the homework is displayed]()
+![Screenshot of the homework is displayed](https://github.com/DavidPedraza95/Professional-Portfolio/blob/main/assets/images/WebsitePP.PNG)
