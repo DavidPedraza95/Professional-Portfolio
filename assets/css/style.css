@@ -3,7 +3,7 @@
 }
 
 :root {
-  --primary: rgb(0, 200, 250);
+  --primary: #2e2e2e;
   --secondary: rgb(127, 168, 216);
   --tertiary: rgb(0, 65, 102);
   --dark: rgba(28, 29, 33, 1);
@@ -176,7 +176,7 @@ main {
 }
 
 .flex-item:hover {
-  background-color: rgba(141, 243, 250, 0.295);
+  background-color: rgba(141, 250, 168, 0.295);
 }
 
 .flex-item div {
@@ -216,24 +216,24 @@ main {
   color: var(--secondary);
 }
 
-.Business {
-  background-image: url("../images/BusinessAdministration.jpg");
-}
-
-.Gamedevelopment {
+.Game {
   background-image: url("../images/Scratch.PNG");
 }
 
-.Horiseon {
-  background-image: url("../images/Horiseon.PNG");
+.DayPlanner {
+  background-image: url("../images/DayPlanner.PNG");
 }
 
-.Investments {
-  background-image: url("../images/Investments.jpg");
+.CodeQuiz {
+  background-image: url("../images/CodeQuiz.PNG");
 }
 
-.WireTransfer {
-  background-image: url("../images/WellsFargo.jpg");
+.PGenerator {
+  background-image: url("../images/PasswordGenerator.PNG");
+}
+
+.StockTracker {
+  background-image: url("../images/StockTracker.PNG");
 }
 
 @media screen and (max-width: 980px) {
